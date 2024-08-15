@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Product details displayed by using Axios Fetch API.
 
-Currently, two official plugins are available:
+It is based on CURD Operation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+C - POST (create)
+U - GET
+R - PUT (update)
+D - DELETE
+Creating Fake API by using Mock API Website
+
+Home page for displaying the Product Details
+
+Click create to add the products details to the home page.
+
+Click edit to modify the content.
+
+Click delete to remove the product from the home page.
